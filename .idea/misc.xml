@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="uv (handson-llm)" />
+  </component>
+  <component name="GOROOT" url="file://$USER_HOME$/.asdf/installs/golang/1.24.2/go" />
+  <component name="KtfmtSettings">
+    <option name="customTrailingCommaManagementStrategy" value="None" />
+    <option name="enableKtfmt" value="Enabled" />
+    <option name="uiFormatterStyle" value="Google (internal)" />
+  </component>
+  <component name="KtfmtSettingsMigration">
+    <option name="stateVersion" value="3" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="uv (handson-llm)" project-jdk-type="Python SDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
